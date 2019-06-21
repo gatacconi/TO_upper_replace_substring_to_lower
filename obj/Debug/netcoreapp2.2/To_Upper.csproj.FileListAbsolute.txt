@@ -1,0 +1,11 @@
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\bin\Debug\netcoreapp2.2\To_Upper.deps.json
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\bin\Debug\netcoreapp2.2\To_Upper.runtimeconfig.json
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\bin\Debug\netcoreapp2.2\To_Upper.runtimeconfig.dev.json
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\bin\Debug\netcoreapp2.2\To_Upper.dll
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\bin\Debug\netcoreapp2.2\To_Upper.pdb
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\obj\Debug\netcoreapp2.2\To_Upper.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\obj\Debug\netcoreapp2.2\To_Upper.AssemblyInfoInputs.cache
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\obj\Debug\netcoreapp2.2\To_Upper.AssemblyInfo.cs
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\obj\Debug\netcoreapp2.2\To_Upper.dll
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\obj\Debug\netcoreapp2.2\To_Upper.pdb
+C:\Users\Treinamento 4\source\repos\To_Upper\To_Upper\obj\Debug\netcoreapp2.2\To_Upper.csprojAssemblyReference.cache
